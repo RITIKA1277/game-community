@@ -1,4 +1,4 @@
-**👋Hey there!**
+**Hey there!**👋
 
 I'm a Ritika,
 A **UI Developer** passionate about creating user Interfaces.
